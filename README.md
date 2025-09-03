@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Sandeep Sharma 👋  
 
-<!--
-**SandeepSharmaSS/SandeepSharmaSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MCA Student | Aspiring Data Analyst & Web Developer**  
+🔍 Turning raw data into insights & building impactful web apps.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🌱 Currently exploring **Data Analytics & Full Stack Web Development**  
+- 🛠️ Skilled in **JavaScript, React, Python, SQL & Excel**  
+- 📊 Interested in **Data Visualization & Problem Solving**  
+- 🎯 Goal: To become a **Business Analyst / Data Analyst**  
+
+---
+
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff) 
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+
+---
+
+## 📂 Featured Projects
+🔹 [Portfolio Website](https://github.com/SandeepSharmaSS/Portfolio1) – Personal portfolio showcasing my skills and projects.  
+
+
+---
+
+## 📊 GitHub Stats
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepSharmaSS&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSharmaSS&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandeepSharmaSS&theme=tokyonight)  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+📧 Email: **alwaysryan08@gmail.com**
+
+
+
+
