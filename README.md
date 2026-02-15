@@ -1,39 +1,78 @@
-# Hi there, I'm Sandeep Sharma 👋  
+# 🚀 Sandeep Sharma  
 
-💻 **MCA Student | Aspiring Data Analyst & Web Developer**  
-🔍 Turning raw data into insights & building impactful web apps.  
+### 💻 Full Stack Developer | MCA Student | MERN & Java Backend  
 
----
+Hi 👋 I'm **Sandeep Sharma**, a passionate Full Stack Developer currently pursuing **Master of Computer Applications (MCA)** from Galgotias University.  
 
-## 🧑‍💻 About Me
-- 🌱 Currently exploring **Data Analytics & Full Stack Web Development**  
-- 🛠️ Skilled in **JavaScript, React, Python, SQL & Excel**  
-- 📊 Interested in **Data Visualization & Problem Solving**  
-- 🎯 Goal: To become a **Business Analyst / Data Analyst**  
+I specialize in building scalable, secure and production-ready web applications using MERN Stack and Java Spring Boot. I am focused on writing clean code, solving real-world problems and continuously improving my technical expertise.
 
 ---
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff) 
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff) 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)    
+## 👨‍💻 About Me
+
+- 🎓 MCA Student  
+- 🌐 Full Stack Developer (MERN + Java Backend)  
+- 🧠 Strong in Data Structures & Object-Oriented Programming  
+- 🚀 Focused on building real-world scalable applications  
 
 ---
 
-## 📊 GitHub Stats
-![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandeepSharmaSS&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSharmaSS&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandeepSharmaSS&theme=tokyonight)  
+## 🛠️ Tech Stack  
+
+**Frontend:**  
+HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | Bootstrap  
+
+**Backend:**  
+Node.js | Express.js | Java | Spring Boot  
+
+**Database:**  
+MongoDB | MySQL  
+
+**Tools:**  
+Git | GitHub | Postman | VS Code | REST APIs | JWT 
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-📧 Email: **alwaysryan08@gmail.com**
+## 📂 Projects  
+
+### 🧠 MERN Life Dashboard
+- Full Stack MERN Application  
+- User Authentication (JWT)  
+- Progress Overview Dashboard  
+- Daily Task & Goal Tracking
+- Fully Responsive UI  
 
 
 
+(👉 Add your GitHub repository links here)
+
+---
+
+## 📊 GitHub Stats  
+
+![Sandeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 LinkedIn: www.linkedin.com/in/sandeep-sharma-6a4435349
+- 📧 Email: alwaysryan08@gmail.com
+
+---
+
+## 🎯 Career Objective  
+
+To secure a challenging position as a Full Stack Developer in a growth-oriented organization where I can apply my technical skills, contribute to impactful projects, and grow as a software professional.
+
+---
+
+## 🏆 Highlights  
+
+- Built 5+ Full Stack Projects  
+- Strong understanding of OOPS, DBMS & REST APIs  
+- Good knowledge of Software Development Life Cycle  
+- Passionate about learning new technologies  
 
