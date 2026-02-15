@@ -50,7 +50,6 @@ Git | GitHub | Postman | VS Code | REST APIs | JWT
 
 ## 📊 GitHub Stats  
 
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeepSharmaSS&show_icons=true&theme=tokyonight)
 
