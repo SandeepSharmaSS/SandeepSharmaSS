@@ -54,6 +54,8 @@ Git | GitHub | Postman | VS Code | REST APIs | JWT
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
+![Sandeep's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me  
