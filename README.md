@@ -1,82 +1,97 @@
-# 🚀 Sandeep Sharma  
+# Sandeep Sharma
 
-### 💻 Full Stack Developer | MCA Student | MERN & Java Backend  
+## Software Developer
 
-Hi 👋 I'm **Sandeep Sharma**, a passionate Full Stack Developer currently pursuing **Master of Computer Applications (MCA)** from Galgotias University.  
+Passionate Software Developer focused on building scalable, secure, and production-ready web applications using modern JavaScript technologies and Java backend systems.
 
-I specialize in building scalable, secure and production-ready web applications using MERN Stack and Java Spring Boot. I am focused on writing clean code, solving real-world problems and continuously improving my technical expertise.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 MCA Student  
-- 🌐 Full Stack Developer (MERN + Java Backend)  
-- 🧠 Strong in Data Structures & Object-Oriented Programming  
-- 🚀 Focused on building real-world scalable applications  
+Currently working with the MERN Stack and Spring Boot to develop clean, efficient, and user-centric applications while continuously improving problem-solving and software engineering skills.
 
 ---
 
-## 🛠️ Tech Stack  
+## About Me
 
-**Frontend:**  
-HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS | Bootstrap  
-
-**Backend:**  
-Node.js | Express.js | Java | Spring Boot  
-
-**Database:**  
-MongoDB | MySQL  
-
-**Tools:**  
-Git | GitHub | Postman | VS Code | REST APIs | JWT 
+- Full Stack Developer specializing in MERN Stack and Java Backend
+- Strong understanding of Data Structures, OOPs, DBMS, and REST APIs
+- Focused on scalable architecture and clean code practices
+- Experienced in building responsive and real-world web applications
+- Continuously learning modern technologies and development standards
 
 ---
 
-## 📂 Projects  
+## Tech Stack
 
-### 🧠 MERN Life Dashboard
-- Full Stack MERN Application  
-- User Authentication (JWT)  
-- Progress Overview Dashboard  
-- Daily Task & Goal Tracking
-- Fully Responsive UI  
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Tailwind CSS
+- Bootstrap
 
+### Backend
+- Node.js
+- Express.js
+- Java
+- Spring Boot
 
+### Database
+- MongoDB
+- MySQL
 
-(👉 Add your GitHub repository links here)
+### Tools & Technologies
+- Git
+- GitHub
+- Postman
+- VS Code
+- REST APIs
+- JWT Authentication
 
 ---
 
-## 📊 GitHub Stats  
+## Projects
 
+### MERN Life Dashboard
+A full-stack productivity and tracking platform built using the MERN Stack.
+
+#### Features
+- Secure JWT Authentication
+- User Dashboard & Analytics
+- Daily Task and Goal Tracking
+- Responsive UI Design
+- REST API Integration
+
+#### Tech Used
+React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeepSharmaSS&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSharmaSS&layout=donut&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSharmaSS&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandeepSharmaSS&theme=tokyonight)
 
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sandeep-sharma-6a4435349
+- Email: alwaysryan08@gmail.com
 
 ---
 
-## 📫 Connect With Me  
+## Career Objective
 
-- 💼 LinkedIn: www.linkedin.com/in/sandeep-sharma-6a4435349
-- 📧 Email: alwaysryan08@gmail.com
-
----
-
-## 🎯 Career Objective  
-
-To secure a challenging position as a Full Stack Developer in a growth-oriented organization where I can apply my technical skills, contribute to impactful projects, and grow as a software professional.
+Seeking an opportunity as a Software Developer where I can contribute to impactful projects, solve real-world problems, and grow as a professional software engineer by building high-quality applications and scalable systems.
 
 ---
 
-## 🏆 Highlights  
+## Highlights
 
-- Built 5+ Full Stack Projects  
-- Strong understanding of OOPS, DBMS & REST APIs  
-- Good knowledge of Software Development Life Cycle  
-- Passionate about learning new technologies  
-
+- Built multiple Full Stack web applications
+- Strong foundation in OOPs, DBMS, and Backend Development
+- Good understanding of Software Development Life Cycle
+- Passionate about scalable application development
+- Focused on writing maintainable and production-level code
