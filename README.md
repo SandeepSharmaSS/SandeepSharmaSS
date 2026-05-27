@@ -66,16 +66,6 @@ React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js, Three.js
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeepSharmaSS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepSharmaSS&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SandeepSharmaSS&theme=tokyonight)
-
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sandeep-sharma-6a4435349
