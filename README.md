@@ -10,7 +10,7 @@ Currently working with the MERN Stack and Spring Boot to develop clean, efficien
 
 ## About Me
 
-- Full Stack Developer specializing in MERN Stack and Java Backend
+- Full Stack Developer specializing in MERN & MEAN Stack and JavaScript Backend
 - Strong understanding of Data Structures, OOPs, DBMS, and REST APIs
 - Focused on scalable architecture and clean code practices
 - Experienced in building responsive and real-world web applications
@@ -27,12 +27,13 @@ Currently working with the MERN Stack and Spring Boot to develop clean, efficien
 - React.js
 - Tailwind CSS
 - Bootstrap
+- Angular
+- Three.js
+- Next.j
 
 ### Backend
 - Node.js
 - Express.js
-- Java
-- Spring Boot
 
 ### Database
 - MongoDB
@@ -61,7 +62,7 @@ A full-stack productivity and tracking platform built using the MERN Stack.
 - REST API Integration
 
 #### Tech Used
-React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Next.js, Three.js
 
 ---
 
